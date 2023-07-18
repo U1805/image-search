@@ -1,0 +1,10 @@
+photos_path: D:/Material
+features_path: ./features
+batch_size: 16
+ext_list: # 图片后缀名
+ - '**/*.jpeg'
+ - '**/*.jpg'
+ - '**/*.png'
+ - '**/*.gif'
+display_num: 5
+model: ViT-B-16
